@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivam-sharma-9b708a174/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shivam-sharma-9b708a174/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucnrhxbjqhmzlplvgc8jyp9q/featured" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucnrhxbjqhmzlplvgc8jyp9q/featured" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNRHxbJqHMzlPlvgc8JYp9Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCNRHxbJqHMzlPlvgc8JYp9Q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
